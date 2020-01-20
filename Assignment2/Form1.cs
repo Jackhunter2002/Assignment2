@@ -29,7 +29,7 @@ namespace Assignment2
             {
                 ResistorSeries1 = double.Parse(textBox1.Text);
                 ResistorSeries2 = double.Parse(textBox2.Text);
-                //These lines of code allow the program to still run when a letter is entered.
+                //These lines of code allow the program to still run when a letter is entered
             }
             catch
             {
